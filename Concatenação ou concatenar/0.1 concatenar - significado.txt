@@ -1,0 +1,1 @@
+Significa juntar conteudos de uma variável com um txto e o inverso

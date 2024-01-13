@@ -1,0 +1,3 @@
+Enquanto “i” for menor ou igual a 10  (i<=10), se repete as instruções, se não, 
+não será repetido, caso o usuário digite, irá sair do loop e seguir
+a sequencia

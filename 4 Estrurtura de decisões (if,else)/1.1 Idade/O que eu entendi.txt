@@ -1,0 +1,6 @@
+O programa só vai apresentar a idade que no caso é apresentar no console se nocaso
+o número for menor que 17 e menor que 60
+
+#os parenteses são importantes
+
+#o E em maiusculo entre as idaeds é importante

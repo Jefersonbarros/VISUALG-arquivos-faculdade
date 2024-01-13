@@ -1,0 +1,19 @@
+## Pelo o que eu entendi o “PARA” é uma variável de repetição
+
+## Sempre que colocar o comando `PARA` é preciso colocar o comando `FIMPARA`
+
+## e pelo o que eu entendi os conjuntos dos comandos
+
+## `Para`, `De` `Ate` e `Faca`
+
+## O para abri um LOOP
+
+## no exemplo fazem com que a descrição 1 ate 10 escreva na tela 1, 2, 3, 4, 5, 
+6, 7, 8, 9, 10
+
+## Pelo o que eu entendi nesse outro exemplo, é basicamente a mesma coisa 
+só que é uma repetição dentro de outra repetição
+
+## A cada numero `1 de i` é executado `1, 2, 3 de j` e consecutivamente para os 
+outros numeros de 2 a 10
+

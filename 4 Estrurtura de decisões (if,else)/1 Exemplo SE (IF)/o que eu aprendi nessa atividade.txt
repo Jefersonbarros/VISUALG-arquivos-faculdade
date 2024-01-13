@@ -1,0 +1,5 @@
+Nessa atividade aprendi o Comandos de Decisão "se". Na atividade colococamos o comando
+leia que é um input, para ler dois numeros que foram declarados como reais, "se" o primeiro
+número for maior que o segundo número, o programa apresentará uma mensagem escrito que o 
+primeiro número é maior, caso "SE" o primeiro numero for menor que o primeiro, não será
+apresentado nenhuma mensagem.

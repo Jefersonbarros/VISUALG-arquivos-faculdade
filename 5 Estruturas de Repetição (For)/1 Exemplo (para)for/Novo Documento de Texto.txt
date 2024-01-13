@@ -1,0 +1,1 @@
+empre que colocar o comando "PARA" é preciso colocar o comando "FIMPARA"

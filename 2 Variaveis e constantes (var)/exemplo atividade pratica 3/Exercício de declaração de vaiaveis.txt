@@ -1,0 +1,15 @@
+Nesse exercício foram declarados os tipos de variáveis e essas variáveis foram operações aritméticas e depois as respostas
+foram apresentas com o comnado escreval 
+
+nesse execício foi utilizado
+
+escreval - print
+var - declara variável
+
+agora o sinal de atribuição de valor de variável que o sinal (<-).
+ é utilizado outro sinal nas otras linguagens de programação, no caso é o sinal de igual (=)
+ex: 
+Var
+// Seção de Declarações das variáveis 
+     nomealg:caracter
+nomealg = "Aprendendo Variáveis e Operadores";

@@ -1,0 +1,16 @@
+basicamente é são popções de escolha, diferente do "se" o "caso" te da opções de escolha
+
+op - opção
+num - número
+
+O ponto e vírgula (;) tem um significado específico.
+No Visualg, o ponto e vírgula é utilizado para indicar o final de uma instrução ou comando.
+Cada linha de código no Visualg deve terminar com um ponto e vírgula para que o programa
+seja
+executado corretamente.
+ex:
+
+x <- 10;
+
+
+Sempre que abrir um comando "ESCOLHA" terminar esse comando com o comando "FIMESCOLHA"

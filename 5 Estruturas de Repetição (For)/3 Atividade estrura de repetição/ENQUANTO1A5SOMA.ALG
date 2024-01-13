@@ -1,0 +1,31 @@
+Algoritmo "ENQUANTO1A5SOMA"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 19/05/2023
+
+
+
+
+
+Var
+// Seção de Declarações das variáveis 
+
+i,soma,num:inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+
+i<-1
+enquanto i<=5 faca
+escreval ("Digite um número do tipo inteiro para soma: ")
+leia (num)
+soma<-soma+num
+i<-i+1
+fimenquanto
+escreval("Resultado da soma: ", soma)
+  
+  
+Fimalgoritmo

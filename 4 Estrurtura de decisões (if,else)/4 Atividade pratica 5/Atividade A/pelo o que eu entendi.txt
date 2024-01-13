@@ -1,0 +1,3 @@
+pelo o que eu entendi, nessa atividade mostra baiscamente o comando "escolha" com só um 
+detalhe, dentro desse comando escolha vai ser preciso criar um comando "SE" dentro do
+comando "ESCOLHA"

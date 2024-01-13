@@ -1,0 +1,2 @@
+Atividade pratica 7 (Escreva um algoritmo em portugol que solicite ao usuário 5 nomes e 5 notas e calcule a média 
+das notas da turma (armazenar as notas em um vetor))

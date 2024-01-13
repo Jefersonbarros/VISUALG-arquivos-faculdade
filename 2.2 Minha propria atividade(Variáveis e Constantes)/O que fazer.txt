@@ -1,0 +1,4 @@
+Na ultima aula o professor fez uma resulução de uma atividade com o VisualG
+(Variáveis e Constantes) que era uma média dos numeros 5, 5 e 5 que a soma dava 15 
+e a media da 5 que era 15/3.No final do vídeo ele pede para usarem os mesmos algoritmos
+para criarmos outra atividade por conta própria

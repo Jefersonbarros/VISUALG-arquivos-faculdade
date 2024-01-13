@@ -1,0 +1,9 @@
+**pelo o que e entendi nessa atividade, ele esta ensinando entrada de dados com o comando de** `leia`
+
+na atividade é preciso escrever o comando `leia`   e apresentar os valores com o comando `escreval` 
+
+na atividade **é preciso a entrada de dois números** e o r**esultado é a multiplicação desses 2 números** 
+
+esses dois números estão declarados entre os conjuntos dos **números reais**
+
+## que podem ser escolhidos pelo usuario a partir do comando `LEIA`

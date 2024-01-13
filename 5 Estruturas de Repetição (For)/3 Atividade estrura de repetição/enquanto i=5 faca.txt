@@ -1,0 +1,4 @@
+enquanto i<=5 faca
+
+
+i<=5 significa que o comando enquanto vai repetir do 1 até o 5

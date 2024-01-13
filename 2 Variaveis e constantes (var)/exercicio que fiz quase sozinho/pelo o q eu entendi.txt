@@ -1,0 +1,7 @@
+Eu to aprendendo aos poucos, então.")
+ escreval ("Nesse exercício aprendi a declarar uma variável em forma de")
+ escreval ("soma e divisão. Entendi que alem de declarar a variável é preciso")
+ escreval ("Dar o comando escreval (print). Para poder visualizar")
+ escreval ("O resultado das operações. Dentro do comando escreval é preciso tbm")
+ escreval ("colocar a variavel que será apresentado o seu valor declarado")
+Fimalgoritmo
